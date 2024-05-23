@@ -5,4 +5,3 @@ g++ a.cpp -o a
 or g++ -std=c++17 a.cpp -o a
 and then run it as ./a
 
-Allot.csv
